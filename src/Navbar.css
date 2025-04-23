@@ -1,0 +1,8 @@
+/* src/components/Navbar/Navbar.scss */
+@import '../../config/_variables.scss';  
+@import '../../base/_base.scss';       
+ @import 'layout/layout';     
+@import '../../_header.scss';  
+@import '../../_search.scss'; 
+@import '../../_login.scss';  
+@import '../../_breakpoints.scss'; 
